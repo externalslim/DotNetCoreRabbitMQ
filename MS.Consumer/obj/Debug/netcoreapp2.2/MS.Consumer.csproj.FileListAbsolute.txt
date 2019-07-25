@@ -1,0 +1,17 @@
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Consumer.deps.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Consumer.runtimeconfig.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Consumer.runtimeconfig.dev.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Consumer.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\obj\Debug\netcoreapp2.2\MS.Consumer.csprojAssemblyReference.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\obj\Debug\netcoreapp2.2\MS.Consumer.csproj.CoreCompileInputs.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\obj\Debug\netcoreapp2.2\MS.Consumer.AssemblyInfoInputs.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\obj\Debug\netcoreapp2.2\MS.Consumer.AssemblyInfo.cs
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Consumer.pdb
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\obj\Debug\netcoreapp2.2\MS.Consumer.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\obj\Debug\netcoreapp2.2\MS.Consumer.pdb
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Data.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Logic.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Logic.pdb
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\bin\Debug\netcoreapp2.2\MS.Data.pdb
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Consumer\obj\Debug\netcoreapp2.2\MS.Consumer.csproj.CopyComplete

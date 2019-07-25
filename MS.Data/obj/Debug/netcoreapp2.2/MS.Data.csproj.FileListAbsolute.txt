@@ -1,0 +1,10 @@
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\bin\Debug\netcoreapp2.2\MS.Data.deps.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\bin\Debug\netcoreapp2.2\MS.Data.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\obj\Debug\netcoreapp2.2\MS.Data.csproj.CoreCompileInputs.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\obj\Debug\netcoreapp2.2\MS.Data.AssemblyInfoInputs.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\obj\Debug\netcoreapp2.2\MS.Data.AssemblyInfo.cs
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\bin\Debug\netcoreapp2.2\MS.Data.runtimeconfig.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\bin\Debug\netcoreapp2.2\MS.Data.runtimeconfig.dev.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\bin\Debug\netcoreapp2.2\MS.Data.pdb
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\obj\Debug\netcoreapp2.2\MS.Data.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Data\obj\Debug\netcoreapp2.2\MS.Data.pdb

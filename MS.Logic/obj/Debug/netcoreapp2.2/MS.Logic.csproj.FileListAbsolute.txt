@@ -1,0 +1,12 @@
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\bin\Debug\netcoreapp2.2\MS.Logic.deps.json
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\bin\Debug\netcoreapp2.2\MS.Logic.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\bin\Debug\netcoreapp2.2\MS.Logic.pdb
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\bin\Debug\netcoreapp2.2\MS.Data.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\bin\Debug\netcoreapp2.2\MS.Data.pdb
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\obj\Debug\netcoreapp2.2\MS.Logic.csprojAssemblyReference.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\obj\Debug\netcoreapp2.2\MS.Logic.csproj.CoreCompileInputs.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\obj\Debug\netcoreapp2.2\MS.Logic.AssemblyInfoInputs.cache
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\obj\Debug\netcoreapp2.2\MS.Logic.AssemblyInfo.cs
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\obj\Debug\netcoreapp2.2\MS.Logic.csproj.CopyComplete
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\obj\Debug\netcoreapp2.2\MS.Logic.dll
+D:\Users\uagirbas\Desktop\MailServiceProject\MS.Consumer\MS.Logic\obj\Debug\netcoreapp2.2\MS.Logic.pdb
