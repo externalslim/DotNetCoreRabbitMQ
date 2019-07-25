@@ -30,7 +30,7 @@ optionsBuilder.UseSqlServer("Server=xx.xx.xx.xx;Database=NotificationApplication
 
 Here is the EntityFramework for .NET Core, EntityFrameworkCore.
 
-#Docker
+# Docker
 
 MSSQL For Linux
 For the docker efcore, run this command -> docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=<pass>' -p 1433:1433 -d microsoft/mssql-server-linux 
