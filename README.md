@@ -31,11 +31,12 @@ optionsBuilder.UseSqlServer("Server=xx.xx.xx.xx;Database=NotificationApplication
 Here is the EntityFramework for .NET Core, EntityFrameworkCore.
 
 #Docker
---MSSQL For Linux
+
+MSSQL For Linux
 For the docker efcore, run this command -> docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=<pass>' -p 1433:1433 -d microsoft/mssql-server-linux 
 Here is going to run your container for mssql server for linux. Then you have to set your database and tables as a model which you can find in the Model folder.
   
---MS.Consumer's Dockerfile
+MS.Consumer's Dockerfile
 Run this command in the right path, -> docker build -t <tagname> .
 
 Then check your images with this command -> docker images
